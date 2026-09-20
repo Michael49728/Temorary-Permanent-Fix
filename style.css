@@ -1,0 +1,32 @@
+html {
+    background-color: lightslategray;
+}
+h1 {
+    color: burlywood;
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+p {
+    color: burlywood;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 3rem;
+    font-weight: normal;
+    font-family: "Libre Baskerville", serif;
+}
+
+#tire {
+    border: 5px solid rgba(47, 35, 35, 0.729);
+}
+
+.poster {
+    margin-top: 5%;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+  
+}
